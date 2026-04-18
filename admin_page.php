@@ -143,7 +143,7 @@ $cases = $stmt->fetchAll(PDO::FETCH_ASSOC);
                 <tr>
                     <th>Document Name</th>
                     <th>Email</th>
-                    <th>Analysis Text</th>
+                    <th>Analysis Text(Textes)</th>
                     <th>Download</th>
                 </tr>
             </thead>
